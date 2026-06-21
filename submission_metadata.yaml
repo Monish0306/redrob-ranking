@@ -33,7 +33,7 @@ team_members:
 # ============================================================================
 github_repo: "https://github.com/Monish0306/redrob-ranking"   # <-- EDIT if different
 
-sandbox_link: "https://YOUR-APP-NAME.streamlit.app"            # <-- EDIT after deploying app/demo.py
+sandbox_link: "https://redrob-ranking-rqp6xnzqzsyaq5ucfzzu9h.streamlit.app/"            # <-- EDIT after deploying app/demo.py
 
 reproduce_command: "python -m src.rank --candidates data/candidates.jsonl --jd data/job_description.txt --out submission.csv"
 
