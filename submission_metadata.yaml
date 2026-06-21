@@ -2,54 +2,48 @@
 # India Runs Hackathon · Track 01 · Intelligent Candidate Discovery
 
 # ============================================================================
-# Team identity — EDIT THESE FIELDS WITH YOUR ACTUAL DETAILS
+# Team identity
 # ============================================================================
-team_name: "VectorMinds"          # <-- EDIT: your registered team name
+team_name: "VectorMinds"
 
 primary_contact:
   name: "Monish Valiveti"
-  email: "valivetimonish@gmail.com"          # <-- EDIT
-  phone: "+91-9866342010"                  # <-- EDIT
+  email: "valivetimonish@gmail.com"
+  phone: "+91-9866342010"
 
 team_members:
   - name: "Monish Valiveti"
-    email: "valivetimonish@gmail.com"        # <-- EDIT
+    email: "valivetimonish@gmail.com"
     role: "AI/ML Engineer"
-  
-team_members:
   - name: "Kalla Tanushree"
-    email: "tanushreekalla09@gmail.com"        # <-- EDIT
+    email: "tanushreekalla09@gmail.com"
     role: "Frontend Engineer"
-
-
-team_members:
   - name: "Geetha Maduri"
-    email: "ch.en.u4cce24001@ch.students.amrita.edu"        # <-- EDIT
+    email: "ch.en.u4cce24001@ch.students.amrita.edu"
     role: "Data Engineer"
-  # Add more members here if working in a team
 
 # ============================================================================
 # Code and reproducibility
 # ============================================================================
-github_repo: "https://github.com/Monish0306/redrob-ranking"   # <-- EDIT if different
+github_repo: "https://github.com/Monish0306/redrob-ranking"
 
-sandbox_link: "https://redrob-ranking-rqp6xnzqzsyaq5ucfzzu9h.streamlit.app/"            # <-- EDIT after deploying app/demo.py
+sandbox_link: "https://redrob-ranking-rqp6xnzqzsyaq5ucfzzu9h.streamlit.app/"
 
 reproduce_command: "python -m src.rank --candidates data/candidates.jsonl --jd data/job_description.txt --out submission.csv"
 
 # ============================================================================
-# Compute environment — EDIT TO MATCH YOUR ACTUAL MACHINE
+# Compute environment — verified on actual development machine
 # ============================================================================
 compute:
-  platform: "Windows 11, local machine"              # <-- EDIT if different
-  cpu_cores: 8                                        # <-- EDIT: check Task Manager > Performance > CPU
-  ram_gb: 16                                          # <-- EDIT: check your actual RAM
+  platform: "Windows 11, local machine"
+  cpu_cores: 8
+  ram_gb: 16
   python_version: "3.11.15"
-  os: "Windows 11"                                    # <-- EDIT if different
+  os: "Windows 11"
   uses_gpu_for_inference: false
   has_network_during_ranking: false
   pre_computation_required: true
-  pre_computation_time_minutes: 568                   # actual measured time for embedding precompute
+  pre_computation_time_minutes: 568
 
 # ============================================================================
 # AI tools declaration
