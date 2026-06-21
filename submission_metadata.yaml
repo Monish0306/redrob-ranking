@@ -1,0 +1,103 @@
+# Redrob Hackathon — Submission Metadata
+# India Runs Hackathon · Track 01 · Intelligent Candidate Discovery
+
+# ============================================================================
+# Team identity — EDIT THESE FIELDS WITH YOUR ACTUAL DETAILS
+# ============================================================================
+team_name: "VectorMinds"          # <-- EDIT: your registered team name
+
+primary_contact:
+  name: "Monish Valiveti"
+  email: "valivetimonish@gmail.com"          # <-- EDIT
+  phone: "+91-9866342010"                  # <-- EDIT
+
+team_members:
+  - name: "Monish Valiveti"
+    email: "valivetimonish@gmail.com"        # <-- EDIT
+    role: "AI/ML Engineer"
+  
+team_members:
+  - name: "Kalla Tanushree"
+    email: "tanushreekalla09@gmail.com"        # <-- EDIT
+    role: "Frontend Engineer"
+
+
+team_members:
+  - name: "Geetha Maduri"
+    email: "ch.en.u4cce24001@ch.students.amrita.edu"        # <-- EDIT
+    role: "Data Engineer"
+  # Add more members here if working in a team
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/Monish0306/redrob-ranking"   # <-- EDIT if different
+
+sandbox_link: "https://YOUR-APP-NAME.streamlit.app"            # <-- EDIT after deploying app/demo.py
+
+reproduce_command: "python -m src.rank --candidates data/candidates.jsonl --jd data/job_description.txt --out submission.csv"
+
+# ============================================================================
+# Compute environment — EDIT TO MATCH YOUR ACTUAL MACHINE
+# ============================================================================
+compute:
+  platform: "Windows 11, local machine"              # <-- EDIT if different
+  cpu_cores: 8                                        # <-- EDIT: check Task Manager > Performance > CPU
+  ram_gb: 16                                          # <-- EDIT: check your actual RAM
+  python_version: "3.11.15"
+  os: "Windows 11"                                    # <-- EDIT if different
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 568                   # actual measured time for embedding precompute
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Claude"
+
+ai_usage_summary: |
+  Used Claude (Anthropic) for architecture design, code generation, and
+  debugging assistance throughout development. All design decisions
+  (scoring methodology, honeypot detection rules, weight calibration)
+  were reviewed and validated against the actual dataset before being
+  finalized. No candidate data was ever sent to any hosted LLM API —
+  Claude was used only during the development/coding process, never
+  inside the ranking pipeline itself. The ranking pipeline (src/rank.py)
+  contains zero hosted-LLM API calls; semantic similarity uses a locally
+  cached sentence-transformers model running entirely offline.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  A rule-engineered, multi-signal ranking pipeline (not a trained ML/DL
+  model, since no labels exist for the 100K pool). Pipeline: (1) schema
+  validation + streaming ingestion, (2) rule-based honeypot pre-filter
+  using date-arithmetic and evidence-consistency checks — excludes 65
+  candidates matching the organizer's stated honeypot patterns, (3) six
+  deterministic feature dimensions (title/role coherence gate, evidence-
+  weighted skill scoring, experience band, company type, location, plus
+  trajectory/recency/GitHub enhancements), (4) semantic similarity via a
+  locally-run sentence-transformers model (all-MiniLM-L6-v2) comparing
+  the JD against pre-computed candidate embeddings, (5) composite scoring
+  combining all signals with a multiplicative behavioral-availability
+  discount (never additive, per the JD's stated "down-weight, don't
+  exclude" guidance), (6) deterministic template-based reasoning
+  generation reading directly from each candidate's own computed
+  sub-scores — zero generative model calls anywhere in the ranking path.
+  Title/role gating exists specifically to defeat the keyword-stuffing
+  trap the JD names explicitly. Ranking step completes in under 1 minute
+  on CPU; embedding pre-computation is a separate, explicitly offline
+  step per the spec's own allowance.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
