@@ -771,8 +771,9 @@ with tab2:
     bins=[0,.3,.5,.6,.7,.8,.9,1.0]
     labels=["<0.3","0.3–0.5","0.5–0.6","0.6–0.7","0.7–0.8","0.8–0.9","0.9–1.0"]
     dist=pd.cut(df_all["Score"],bins=bins,labels=labels).value_counts().sort_index()
-    st.bar_chart(dist.reset_index().rename(columns={"index":"Range","Score":"Count"}).set_index("Range"),
-                 color="#0369A1")
+    dist_df=dist.reset_index()
+    dist_df.columns=["Score Range","Count"]
+    st.bar_chart(dist_df.set_index("Score Range")["Count"], color="#0369A1")
 
     st.markdown("#### 🔥 Market Demand — Top 15 Candidates")
     md_df=pd.DataFrame([{"Candidate":(r["Name"] or r["Candidate ID"])[:20],
