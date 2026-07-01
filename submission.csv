@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0011687,1,0.9382,★ Strong signal: 7.8 years in a core ML role at Niramai with solid evidence of Embeddings and Weaviate; active GitHub presence adds further confidence.
+CAND_0064326,2,0.9273,★ 7.6 years of hands-on ML engineering experience with demonstrated depth in Deep Learning and RAG; active GitHub presence adds further confidence.
+CAND_0018499,3,0.9215,★ 7.2 years of hands-on ML engineering experience with demonstrated depth in Embeddings and Deep Learning; active GitHub presence adds further confidence.
+CAND_0050454,4,0.9175,"★ Core-fit candidate with 6.8 years building production ML systems, notably PyTorch and LLMs; AI/ML work is recent and ongoing rather than historical."
+CAND_0037566,5,0.909,★ 6.9 years of hands-on ML engineering experience with demonstrated depth in LLMs and Pinecone; active GitHub presence adds further confidence.
+CAND_0002025,6,0.9082,★ 5.9 years of hands-on ML engineering experience with demonstrated depth in Deep Learning and NLP; active GitHub presence adds further confidence.
+CAND_0061257,7,0.9062,★ 8 years of hands-on ML engineering experience with demonstrated depth in Python and Machine Learning; career narrative closely matches JD language and requirements.
+CAND_0081846,8,0.9048,"★ Core-fit candidate with 6.7 years building production ML systems, notably Machine Learning and Qdrant; AI/ML work is recent and ongoing rather than historical."
+CAND_0077337,9,0.9046,★ 7 years of hands-on ML engineering experience with demonstrated depth in LLMs and RAG; active GitHub presence adds further confidence.
+CAND_0046064,10,0.8986,"★ Core-fit candidate with 8.9 years building production ML systems, notably Pinecone and Python; active GitHub presence adds further confidence."
+CAND_0062247,11,0.8928,Strong signal: 7.3 years in a core ML role at Google with solid evidence of Deep Learning and Qdrant; AI/ML work is recent and ongoing rather than historical.
+CAND_0055905,12,0.8912,Strong signal: 8.1 years in a core ML role at Flipkart with solid evidence of Python and Embeddings; note: located in London — relocation or remote arrangement needed.
+CAND_0099806,13,0.8888,4.6 years of hands-on ML engineering experience with demonstrated depth in Qdrant and FAISS; active GitHub presence adds further confidence.
+CAND_0086022,14,0.8857,"Core-fit candidate with 5.3 years building production ML systems, notably PyTorch and Pinecone; active GitHub presence adds further confidence."
+CAND_0052682,15,0.8834,6.6 years of hands-on ML engineering experience with demonstrated depth in Python and Embeddings; active GitHub presence adds further confidence.
+CAND_0079387,16,0.8833,"Core-fit candidate with 6.9 years building production ML systems, notably Python and BentoML; active GitHub presence adds further confidence."
+CAND_0046525,17,0.8813,"Core-fit candidate with 6.1 years building production ML systems, notably Machine Learning and Qdrant; AI/ML work is recent and ongoing rather than historical."
+CAND_0088025,18,0.8792,Strong signal: 8.6 years in a core ML role at Yellow.ai with solid evidence of RAG and LLMs; active GitHub presence adds further confidence.
+CAND_0071974,19,0.8779,"Core-fit candidate with 7.8 years building production ML systems, notably Qdrant and Embeddings; active GitHub presence adds further confidence."
+CAND_0040887,20,0.8769,Strong signal: 4.7 years in a core ML role at Netflix with solid evidence of Python and Milvus; note: located in Toronto — relocation or remote arrangement needed.
+CAND_0042506,21,0.8738,4.2 years of hands-on ML engineering experience with demonstrated depth in NLP and FAISS; active GitHub presence adds further confidence.
+CAND_0065195,22,0.8726,5.1 years of hands-on ML engineering experience with demonstrated depth in LLMs and Qdrant; active GitHub presence adds further confidence.
+CAND_0093912,23,0.8692,"Core-fit candidate with 5.3 years building production ML systems, notably Milvus and Embeddings; active GitHub presence adds further confidence."
+CAND_0075574,24,0.8654,5.7 years of hands-on ML engineering experience with demonstrated depth in PyTorch and Weaviate; career narrative closely matches JD language and requirements.
+CAND_0006418,25,0.8636,"Core-fit candidate with 5.7 years building production ML systems, notably Qdrant and Embeddings; career narrative closely matches JD language and requirements."
+CAND_0053591,26,0.8591,"Core-fit candidate with 5.3 years building production ML systems, notably Qdrant and Embeddings; note: located in Toronto — relocation or remote arrangement needed."
+CAND_0078492,27,0.8588,5.1 years of hands-on ML engineering experience with demonstrated depth in FAISS and Qdrant; career narrative closely matches JD language and requirements.
+CAND_0052328,28,0.8546,"Core-fit candidate with 6.5 years building production ML systems, notably Python and QLoRA; active GitHub presence adds further confidence."
+CAND_0029367,29,0.8535,Strong signal: 5.7 years in a core ML role at Rephrase.ai with solid evidence of Pinecone and TensorFlow; AI/ML work is recent and ongoing rather than historical.
+CAND_0068811,30,0.851,"Core-fit candidate with 8 years building production ML systems, notably Pinecone and Qdrant; AI/ML work is recent and ongoing rather than historical."
+CAND_0014440,31,0.8509,Strong signal: 6.4 years in a core ML role at CRED with solid evidence of FAISS and Qdrant; active GitHub presence adds further confidence.
+CAND_0058688,32,0.8503,Strong signal: 6.7 years in a core ML role at Vedantu with solid evidence of Machine Learning and Embeddings; note: located in Berlin — relocation or remote arrangement needed.
+CAND_0036184,33,0.8498,"Core-fit candidate with 6 years building production ML systems, notably Semantic Search and PyTorch; AI/ML work is recent and ongoing rather than historical."
+CAND_0010257,34,0.8475,Strong signal: 6.5 years in a core ML role at Google with solid evidence of TensorFlow and Milvus; career narrative closely matches JD language and requirements.
+CAND_0069905,35,0.8463,Strong signal: 6.6 years in a core ML role at Sarvam AI with solid evidence of Python and Weaviate; AI/ML work is recent and ongoing rather than historical.
+CAND_0027691,36,0.8459,Strong signal: 6.5 years in a core ML role at Haptik with solid evidence of Weaviate and Semantic Search; career narrative closely matches JD language and requirements.
+CAND_0051004,37,0.8455,"Core-fit candidate with 4.7 years building production ML systems, notably Qdrant and Semantic Search; AI/ML work is recent and ongoing rather than historical."
+CAND_0037980,38,0.845,Strong signal: 9 years in a core ML role at Niramai with solid evidence of NLP and PyTorch; career trajectory shows deliberate movement into ML roles.
+CAND_0072660,39,0.8431,Strong signal: 7.1 years in a core ML role at Unacademy with solid evidence of PyTorch and FAISS; note: located in Berlin — relocation or remote arrangement needed.
+CAND_0041669,40,0.8427,8 years of hands-on ML engineering experience with demonstrated depth in Milvus and Semantic Search; active GitHub presence adds further confidence.
+CAND_0079064,41,0.8426,"Core-fit candidate with 5.2 years building production ML systems, notably Semantic Search and Pinecone; AI/ML work is recent and ongoing rather than historical."
+CAND_0066999,42,0.8422,5.9 years of hands-on ML engineering experience with demonstrated depth in FAISS and LLMs; active GitHub presence adds further confidence.
+CAND_0030468,43,0.8401,"Core-fit candidate with 5.4 years building production ML systems, notably Machine Learning and Milvus; career narrative closely matches JD language and requirements."
+CAND_0007009,44,0.8383,Strong signal: 7.9 years in a core ML role at Wysa with solid evidence of Python and Embeddings; active GitHub presence adds further confidence.
+CAND_0007412,45,0.8379,7.4 years of hands-on ML engineering experience with demonstrated depth in PyTorch and Pinecone; AI/ML work is recent and ongoing rather than historical.
+CAND_0018549,46,0.8374,6.8 years of hands-on ML engineering experience with demonstrated depth in Qdrant and Weaviate; career narrative closely matches JD language and requirements.
+CAND_0081053,47,0.8356,Strong signal: 5.4 years in a core ML role at Glance with solid evidence of Machine Learning and Weaviate; active GitHub presence adds further confidence.
+CAND_0019480,48,0.8301,"Core-fit candidate with 2.8 years building production ML systems, notably TensorFlow and LLMs; active GitHub presence adds further confidence."
+CAND_0067866,49,0.8297,6.4 years of hands-on ML engineering experience with demonstrated depth in Qdrant and MLflow; AI/ML work is recent and ongoing rather than historical.
+CAND_0066376,50,0.8285,5.7 years of hands-on ML engineering experience with demonstrated depth in FAISS and LLMs; AI/ML work is recent and ongoing rather than historical.
+CAND_0041610,51,0.8283,"Core-fit candidate with 6.7 years building production ML systems, notably Embeddings and PyTorch; career narrative closely matches JD language and requirements."
+CAND_0020708,52,0.8275,"Core-fit candidate with 4.2 years building production ML systems, notably LLMs and Python; active GitHub presence adds further confidence."
+CAND_0081852,53,0.827,5.9 years of hands-on ML engineering experience with demonstrated depth in Milvus and Semantic Search; active GitHub presence adds further confidence.
+CAND_0075249,54,0.8261,Strong signal: 6.2 years in a core ML role at Zomato with solid evidence of Machine Learning and Pinecone; AI/ML work is recent and ongoing rather than historical.
+CAND_0076163,55,0.8244,6.9 years of hands-on ML engineering experience with demonstrated depth in Semantic Search and Python; active GitHub presence adds further confidence.
+CAND_0093193,56,0.8222,Strong signal: 7.9 years in a core ML role at Niramai with solid evidence of TensorFlow and Qdrant; career narrative closely matches JD language and requirements.
+CAND_0039838,57,0.8213,"Core-fit candidate with 4.9 years building production ML systems, notably RAG and Milvus; career narrative closely matches JD language and requirements."
+CAND_0053605,58,0.8208,"Core-fit candidate with 6.9 years building production ML systems, notably RAG and Semantic Search; AI/ML work is recent and ongoing rather than historical."
+CAND_0036863,59,0.8204,4.3 years of hands-on ML engineering experience with demonstrated depth in FAISS and Qdrant; career narrative closely matches JD language and requirements.
+CAND_0054394,60,0.8201,4.1 years of hands-on ML engineering experience with demonstrated depth in Embeddings and Pinecone; AI/ML work is recent and ongoing rather than historical.
+CAND_0018722,61,0.8199,6.6 years of hands-on ML engineering experience with demonstrated depth in TensorFlow and Python; note: located in Toronto — relocation or remote arrangement needed.
+CAND_0008425,62,0.8166,7.8 years of hands-on ML engineering experience with demonstrated depth in Python and Qdrant; AI/ML work is recent and ongoing rather than historical.
+CAND_0044222,63,0.8162,"Core-fit candidate with 7.7 years building production ML systems, notably Deep Learning and NLP; AI/ML work is recent and ongoing rather than historical."
+CAND_0005649,64,0.8133,"Core-fit candidate with 7.4 years building production ML systems, notably Deep Learning and Semantic Search; active GitHub presence adds further confidence."
+CAND_0095528,65,0.8126,5.3 years of hands-on ML engineering experience with demonstrated depth in PyTorch and Semantic Search; AI/ML work is recent and ongoing rather than historical.
+CAND_0096142,66,0.8094,"Core-fit candidate with 5 years building production ML systems, notably NLP and Python; active GitHub presence adds further confidence."
+CAND_0015578,67,0.8092,5.4 years of hands-on ML engineering experience with demonstrated depth in Machine Learning and FAISS; AI/ML work is recent and ongoing rather than historical.
+CAND_0046132,68,0.8092,"Core-fit candidate with 4.3 years building production ML systems, notably MLflow and MLOps; career narrative closely matches JD language and requirements."
+CAND_0005538,69,0.8085,"Core-fit candidate with 5.9 years building production ML systems, notably PyTorch and Deep Learning; career narrative closely matches JD language and requirements."
+CAND_0017960,70,0.8085,"Core-fit candidate with 7.7 years building production ML systems, notably Qdrant and Python; active GitHub presence adds further confidence."
+CAND_0006567,71,0.8077,"Core-fit candidate with 7.9 years building production ML systems, notably Python and NLP; career trajectory shows deliberate movement into ML roles."
+CAND_0050876,72,0.8073,Strong signal: 6 years in a core ML role at Freshworks with solid evidence of Python and Qdrant; active GitHub presence adds further confidence.
+CAND_0051292,73,0.8069,5.2 years of hands-on ML engineering experience with demonstrated depth in RAG and NLP; active GitHub presence adds further confidence.
+CAND_0000031,74,0.8066,"Core-fit candidate with 6 years building production ML systems, notably Embeddings and Pinecone; profile reads as genuine practitioner rather than credential-stacker."
+CAND_0010685,75,0.8065,Strong signal: 6.7 years in a core ML role at Rephrase.ai with solid evidence of RAG and PyTorch; career narrative closely matches JD language and requirements.
+CAND_0046353,76,0.8059,Strong signal: 6.4 years in a core ML role at Razorpay with solid evidence of PyTorch and FAISS; active GitHub presence adds further confidence.
+CAND_0061265,77,0.8059,6.6 years of hands-on ML engineering experience with demonstrated depth in Milvus and Embeddings; active GitHub presence adds further confidence.
+CAND_0011162,78,0.8021,Strong signal: 5.8 years in a core ML role at upGrad with solid evidence of FAISS and Pinecone; profile reads as genuine practitioner rather than credential-stacker.
+CAND_0017918,79,0.7986,Strong signal: 3.2 years in a core ML role at Aganitha with solid evidence of Weaviate and LLMs; AI/ML work is recent and ongoing rather than historical.
+CAND_0073007,80,0.7963,"Core-fit candidate with 5.8 years building production ML systems, notably MLflow and Embeddings; active GitHub presence adds further confidence."
+CAND_0026942,81,0.7959,"Core-fit candidate with 6 years building production ML systems, notably TensorFlow and MLflow; active GitHub presence adds further confidence."
+CAND_0008239,82,0.7958,"Core-fit candidate with 4 years building production ML systems, notably Milvus and FAISS; career narrative closely matches JD language and requirements."
+CAND_0008295,83,0.793,Strong signal: 6.5 years in a core ML role at Razorpay with solid evidence of Python and BentoML; AI/ML work is recent and ongoing rather than historical.
+CAND_0066690,84,0.7927,"Core-fit candidate with 4.8 years building production ML systems, notably TensorFlow and Pinecone; AI/ML work is recent and ongoing rather than historical."
+CAND_0069638,85,0.792,"Strong signal: 6.2 years in a core ML role at Swiggy with solid evidence of Semantic Search and Pinecone; AI/ML work is recent and ongoing rather than historical, though margins are close at this rank."
+CAND_0093763,86,0.792,"5 years of hands-on ML engineering experience with demonstrated depth in FAISS and MLOps; career narrative closely matches JD language and requirements, though margins are close at this rank."
+CAND_0074225,87,0.7916,"Core-fit candidate with 4.3 years building production ML systems, notably Machine Learning and Python; profile reads as genuine practitioner rather than credential-stacker, though margins are close at this rank."
+CAND_0068932,88,0.7912,"5.2 years of hands-on ML engineering experience with demonstrated depth in MLOps and RAG; active GitHub presence adds further confidence, though margins are close at this rank."
+CAND_0016163,89,0.7911,"Strong signal: 6.7 years in a core ML role at Dream11 with solid evidence of TensorFlow and Machine Learning; active GitHub presence adds further confidence, though margins are close at this rank."
+CAND_0009691,90,0.7893,"6.2 years of hands-on ML engineering experience with demonstrated depth in Qdrant and BentoML; active GitHub presence adds further confidence, though margins are close at this rank."
+CAND_0078002,91,0.7891,"Strong signal: 6.3 years in a core ML role at Meta with solid evidence of NLP and TensorFlow; career narrative closely matches JD language and requirements, though margins are close at this rank."
+CAND_0025640,92,0.789,"Core-fit candidate with 5.6 years building production ML systems, notably Semantic Search and FAISS; AI/ML work is recent and ongoing rather than historical, though margins are close at this rank."
+CAND_0063622,93,0.7884,"5.2 years of hands-on ML engineering experience with demonstrated depth in MLOps and Machine Learning; profile reads as genuine practitioner rather than credential-stacker, though margins are close at this rank."
+CAND_0052335,94,0.7874,Strong signal: 6.4 years in a core ML role at Aganitha with solid evidence of PyTorch and NLP; note: located in Berlin — relocation or remote arrangement needed.
+CAND_0082086,95,0.7872,"Strong signal: 6 years in a core ML role at Razorpay with solid evidence of FAISS and Pinecone; active GitHub presence adds further confidence, though margins are close at this rank."
+CAND_0064904,96,0.7871,"Core-fit candidate with 4.9 years building production ML systems, notably Embeddings and Python; career narrative closely matches JD language and requirements, though margins are close at this rank."
+CAND_0071432,97,0.7861,"Strong signal: 4.1 years in a core ML role at Wysa with solid evidence of Weaviate and NLP; career narrative closely matches JD language and requirements, though margins are close at this rank."
+CAND_0070525,98,0.7851,"Strong signal: 5.4 years in a core ML role at Mad Street Den with solid evidence of Python and LLMs; AI/ML work is recent and ongoing rather than historical, though margins are close at this rank."
+CAND_0061339,99,0.785,"4.2 years of hands-on ML engineering experience with demonstrated depth in LLMs and Milvus; active GitHub presence adds further confidence, though margins are close at this rank."
+CAND_0020350,100,0.7847,"Strong signal: 5.8 years in a core ML role at Zoho with solid evidence of LLMs and NLP; career narrative closely matches JD language and requirements, though margins are close at this rank."

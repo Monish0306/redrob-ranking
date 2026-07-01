@@ -22,7 +22,7 @@ JD_FILE             = ROOT_DIR / "data" / "job_description.txt"
 
 # ─── Embedding Model ──────────────────────────────────────────────────────────
 # all-MiniLM-L6-v2: 384-dim, ~80MB, CPU-fast, no network needed at runtime
-EMBEDDING_MODEL     = "sentence-transformers/all-MiniLM-L6-v2"
+EMBEDDING_MODEL     = "intfloat/e5-small-v2"
 EMBEDDING_BATCH_SIZE = 512          # tune down if RAM is tight
 EMBEDDING_DIM       = 384
 
